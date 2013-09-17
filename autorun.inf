@@ -1,0 +1,4 @@
+[Autorun]
+open=findPartition.bat
+icon=icone.ico
+action=Run 
